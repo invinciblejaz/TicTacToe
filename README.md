@@ -17,7 +17,7 @@ Works on all screen sizes
 📥 Download & Play
 
 👉 Latest Release APK:
-https://github.com/invinciblejaz/TicTacToe/releases/latest
+(https://github.com/invinciblejaz/TicTacToe/releases/download/v1.0.0/app-release.apk)
 
 (Anyone can download and install the APK from the link above.)
 
@@ -52,3 +52,4 @@ Single-player mode with AI
 Score counter
 
 Online multiplayer
+
