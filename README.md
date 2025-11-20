@@ -14,6 +14,10 @@ Clean layout and custom graphics
 
 Works on all screen sizes
 
+Screenshots
+<img src="splashscreen.jpg" width="260"/>
+<img src="screen1.jpg" width="260"/>
+
 📥 Download & Play
 
 👉 Latest Release APK:
@@ -52,4 +56,5 @@ Single-player mode with AI
 Score counter
 
 Online multiplayer
+
 
