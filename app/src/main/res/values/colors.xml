@@ -4,5 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="colorX">#FF5733</color>
     <color name="colorY">#335BFF</color>
+    <color name="purple_500">#FF5A5A5A</color>
+    <color name="teal_200">#FFB0BEC5</color>
+    <color name="purple_700">#FF424242</color>
+    <color name="my_button_color">#AA6023</color>
+
 
 </resources>
